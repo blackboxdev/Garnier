@@ -32,12 +32,10 @@ include('_includes/header.php');
                          <div class="col-md-6 col-xs-6 tajuk-filter"> 
                                     Arrange according to <br/>
                         </div>
-                        
                         <div class="col-md-2 col-xs-2 " onchange="location = this.options[this.selectedIndex].value;">
                             <select  class="filter1 filter-btn">
                                 <option value="whit" >Skin Need</option>
                                 <option value="whit" /> Whitening<br />
-                                <option value="oil" /> Oil Control<br />
                             </select>
                         </div>
                         <div class="col-md-2 col-xs-2">
@@ -65,7 +63,7 @@ include('_includes/header.php');
 <!-- Products Listed -->
 			
 			<div class="row product-align">
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit com nor 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit com oil nor 1">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/gentle-clarifying-foam.png"  />
         				</div>
@@ -75,7 +73,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4  col-sm-6  tolak-product showimg whit com nor 2">
+					<div class="col-md-4  col-sm-6  tolak-product showimg whit com oil nor 2">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/light-complete-intensive-brightening-scrub.png"  />
         				</div>
@@ -84,48 +82,8 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="LC-MultiActionBrighteningScrub.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-					<div class="col-md-4 col-sm-6 tolak-product showimg com whit 1">
-						<div class=" a">
-            				<img src="images/skin-natural/light-complete/milky-lightening-dew-toner.png"  />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Light Complete Milky Lightening Dew Toner</b><p>A refreshing milky toner that helps to brighten skin.
-							</p><a class="bar-findout bar-align" href="LC-MilkyLighteningDewToner.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit com nor 1">
-						<div class=" a">
-            				<img src="images/skin-natural/light-complete/multi-action-whitening-cream-extraUV-protection.png"  />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Light Complete White Speed<sup>TM</sup> Multi-Action Whitening Serum Cream SPF20/PA+++</b><p>3X FASTER. Complete Fairness in just 10 days!
-							</p><a class="bar-findout bar-align" href="LC-MultiActionWhiteningCreamExtraUVProtectionSP20.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
-
-
-					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
-						<div class=" a" style="bottom: 60px">
-            				<img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Light Complete Visible SPF15</b><p>Get fairness that doesn't shine.
-							</p><a class="bar-findout bar-align" href="LC-Multi-ActionWhiteningFacePowder.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
-
-					<div class="col-md-4 col-sm-6 tolak-product showimg  com whit nor 1">
-						<div class=" a">
-            				<img src="images/skin-natural/light-complete/multi-action-whitening-cream-night-restore.png"  />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Light Complete White<sup>TM</sup> Speed Multi-Action Whitening Serum Cream Night Restore</b><p>Radiant-looking skin in just 1 night!
-							</p><a class="bar-findout bar-align" href="LC-MultiActionWhiteningCreamNightRestore.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
-
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit oil com 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit com 1">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/multi-action-whitening-cream-8hour-shine.png"  />
         				</div>
@@ -165,12 +123,13 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6  tolak-product whit showimg oil nor 1">
-						<div class=" a">
-            				<img style="max-width: 120%; margin-left: -15px;" src="images/skin-natural/light-complete/lcwhiteningpowder-m.png" class='hold' />
+
+					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
+						<div class=" a" style="bottom: 60px">
+            				<img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Light Complete Visible Whitening Face Powder SPF18</b><p>Get fairness that doesn't shine.
+				           <b>Light Complete Visible SPF15</b><p>Get fairness that doesn't shine.
 							</p><a class="bar-findout bar-align" href="LC-Multi-ActionWhiteningFacePowder.php"> &#9656; Find Out </a>
        					</div>
 					</div>

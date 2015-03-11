@@ -69,7 +69,8 @@ if(!isset($_SESSION['email'])){
 					<span class="dd"><span>By Skin Needs</span></span><br><br></li>
 	                <li class="warna"><a href="skin-natural-skin-need-whitening.php">Whitening</a></li>
 	                <li class="warna"><a href="skin-natural-skin-need-acne.php">Anti-Acne</a></li>
-	                <li class="warna"><a href="skin-natural-skin-need-hydrating.php">Hydrating</a></li>
+	                <li class="warna"><a href="skin-natural-skin-need-hydrating.php">Hydration</a></li>
+	                <li class="warna"><a href="skin-natural-skin-need-oilcontrol.php">Oil Control</a></li>
 				  </ul>
 				  <ul class=""> 
                  		<li class=""><span class="dd"><span>By Skin Type</span></span><br><br></li>
@@ -99,7 +100,7 @@ if(!isset($_SESSION['email'])){
 				  <ul class=""> 
 					<li class=""><span class="dd"><span>By Skin Needs</span></span><br><br></li>
 	                <li class="warna"><a href="gmen-skin-need-whitening.php">Whitening</a></li>
-	                <li class="warna"><a href="gmen-skin-need-acne.php">Acne</a></li>
+	                <li class="warna"><a href="gmen-skin-need-acne.php">Anti-Acne</a></li>
 	                
 				  </ul>
 				  <ul class=""> 
@@ -129,16 +130,15 @@ if(!isset($_SESSION['email'])){
 	                  <li class="warna"><a href="olia.php">Olia</a></li>
 				  </ul>
 				  <ul class=""> 
-					<li class=""><span class="dd"><span>By Type</span></span><br><br></li>
-	                <li class="warna"><a href="permanent.php">Permanent</a></li>
-	                <li class="warna"><a href="amonia.php">Ammonia Free</a></li>
-				  </ul>
+						<li class=""><span class="dd"><span>By Hair Need</span></span><br><br></li>
+		                <li class="warna"><a href="healthier.php">Healthier Looking Hair</a></li>
+		                <li class="warna"><a href="amonia.php">Ammonia Free</a></li>
+		                <li class="warna"><a href="affordability.php">Affordability</a></li>
+	                </ul>
 				  <ul class=""> 
-                 		<li class="">
-                 		<span class="dd"><span>By Colour</span></span><br><br></li>
+                 		<li class=""><span class="dd"><span>By Colour</span></span><br><br></li>
 	                	<li class="warna"><a href="black.php">Black</a></li>
 	                 	<li class="warna"><a href="brown.php">Brown</a></li>
-	                 	<li class="warna"><a href="blonde.php">Blonde</a></li>
 	                 	<li class="warna"><a href="red.php">Red</a></li>
 	                 	
 				  </ul>
@@ -334,8 +334,9 @@ End of Bahasa / About -->
 										<li class="drop-header">
 										<span class="dd"><span>By Skin Needs</span></span><br><br></li>
 						                <li class="warna"><a href="skin-natural-skin-need-whitening.php">Whitening</a></li>
-						                <li class="warna"><a href="skin-natural-skin-need-acne.php">Acne</a></li>
-						                <li class="warna"><a href="skin-natural-skin-need-hydrating.php">Hydrating</a></li>
+						                <li class="warna"><a href="skin-natural-skin-need-acne.php">Anti-Acne</a></li>
+						                <li class="warna"><a href="skin-natural-skin-need-hydrating.php">Hydration</a></li>
+						                <li class="warna"><a href="skin-natural-skin-need-oilcontrol.php">Oil Control</a></li>
 									  </ul>
 									  <ul class="col-sm-3 list-unstyled dash-right"> 
 					                 		<li class="drop-header"><span class="dd"><span>By Skin Type</span></span><br><br></li>
@@ -398,16 +399,16 @@ End of Bahasa / About -->
 						                  <li class="warna"><a href="olia.php">Olia</a></li>
 									  </ul>
 									  <ul class="col-sm-3 list-unstyled dash-right"> 
-										<li class="drop-header"><span class="dd"><span>By Skin Type</span></span><br><br></li>
-						                <li class="warna"><a href="permanent.php">Permanent</a></li>
+										<li class="drop-header"><span class="dd"><span>By Hair Need</span></span><br><br></li>
+						                <li class="warna"><a href="healthier.php">Healthier Looking Hair</a></li>
 						                <li class="warna"><a href="amonia.php">Ammonia Free</a></li>
+						                <li class="warna"><a href="affordability.php">Affordability</a></li>
 									  </ul>
 									  <ul class="col-sm-3 list-unstyled dash-right"> 
 					                 		<li class="drop-header">
 					                 		<span class="dd"><span>By Colour</span></span><br><br></li>
 						                	<li class="warna"><a href="black.php">Black</a></li>
 						                 	<li class="warna"><a href="brown.php">Brown</a></li>
-						                 	<li class="warna"><a href="blonde.php">Blonde</a></li>
 						                 	<li class="warna"><a href="red.php">Red</a></li>
 						                 	
 									  </ul>

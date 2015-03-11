@@ -17,7 +17,7 @@ include('_includes/header.php');
 			<div class="row">
 				<div class="col-md-12">
 					<div class="tajuk-besar">
-						<h1>By Skin Need- Acne</h1>
+						<h1>By Skin Need- Anti-Acne</h1>
 					</div>
 				</div>
 			</div>
@@ -30,8 +30,7 @@ include('_includes/header.php');
                         </div>
                         <div class="col-md-2">
                             <select class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
-                                <option value="gmen-skin-need-whitening.php" />Whitening</option>
-                                <option value="gmen-skin-need-acne.php" /> Acne<br />
+                                <option value="gmen-skin-need-acne.php" /> Anti-Acne<br />
                                
                             </select>
                         </div>
@@ -40,9 +39,7 @@ include('_includes/header.php');
                                 <option>Skin Type</option>
                                 <option value="gmen-skin-need-normal.php" /> Normal<br />
                                 <option value="gmen-skin-need-dry.php" /> Dry<br />
-                                
-                                <option value="gmen-skin-need-sensitive.php" /> Combination<br />
-                                <option value="gmen-skin-need-sensitive.php" /> Oily<br />
+                                <option value="gmen-skin-need-combination.php" /> Combination<br />
                             </select>
                         </div>
                         <div class="col-md-2">
@@ -62,47 +59,47 @@ include('_includes/header.php');
 			<div class="row">
 
 
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg whit acne 1">
 						<div class=" a">
             				<img src="images/men/oil-control/OilControlAntiGreaseWhiteningCoolingFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Grease Control Brightening Cooling Foam</b><p>An oil trapping mud texture with a cooling after feel.
+				           <b>TurboLight Oil Control Grease Control Brightening Cooling Foam</b><p>An oil trapping mud texture with a cooling after feel.
 							</p><a class="bar-findout bar-align" href="GM-GreaseControlBrighteningCoolingFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-				
-					<div class="col-xs-4 tolak-product  1">
+
+					<div class="col-xs-4 tolak-product showimg whit acne oil com 2">
+						<div class=" a">
+            				<img src="images/men/turbo-light/BrighteningIcyScrub.png" class='hold' />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>TurboLight Oil Control Blackheads Reducing Brightening Icy Scrub</b><p>A pore unclogging scrub with micro-beads for a cool, brightening result.
+							</p><a class="bar-findout bar-align" href="GM-Anti-BlackheadsBrighteningIcyScrub.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
+					<div class="col-xs-4 tolak-product showimg whit oil com acne 1">
 						<div class=" a">
             				<img src="images/men/turbo-light/TurboLightOilControlCharcoalFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>TurboLight Oil Control Charcoal Foam</b><p>Eliminate dirt and excess oil instantly!
+				           <b>TurboLight Oil Control Purify and Brighten Charcoal Black Foam</b><p>Eliminate dirt and excess oil instantly!
 							</p><a class="bar-findout bar-align" href="GM-TurboLightOilControlCharcoalFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-					<div class="col-xs-4 tolak-product  1">
+
+					<div class="col-xs-4 tolak-product showimg whit acne 1">
 						<div class=" a">
-            				<img src="images/men/icy-duo/TurboLightDoubleWhiteIcyDuoFoam.png" class='hold' />
+            				<img src="images/men/turbo-light/All-in-1BrighteningMoisturiser.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Icy Duo Foam Double White</b><p>Foam cleanser for fairer and brighter skin.
-							</p><a class="bar-findout bar-align" href="GM-FoamDoubleWhite.php"> &#9656; Find Out </a>
+				           <b>TurboLight Oil Control All-in-1 Brightening Moisturiser </b><p>All day bright and oil free look.
+							</p><a class="bar-findout bar-align" href="GM-All-in-1BrighteningMoisturiser.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-
-					<div class="col-xs-4 tolak-product  2">
-						<div class=" a">
-            				<img src="images/men/icy-duo/IcyDuoFoamWhite.png" class='hold' />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Icy Duo Foam White + Oil Control</b><p>Foam cleanser for fairer skin and pore minimizing.
-							</p><a class="bar-findout bar-align" href="GM-TurboLightIcyDuoFoamWhite+OilControl.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
 
 					<div class="col-xs-4 tolak-product  1">
 						<div class=" a">

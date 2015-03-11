@@ -10,14 +10,14 @@ include('_includes/header.php');
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<div class="breadcrumb"> <a href="index.php">Home</a> > <a href="fym-garnier-skin-natural-hair.php">Hair Colour</a> > Olia
+					<div class="breadcrumb"> <a href="index.php">Home</a> > <a href="#">Hair Colour</a> > Olia
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="tajuk-besar">
-						<h1>By Hair Color - Red</h1>
+						<h1>By Type - Affordability</h1>
 					</div>
 				</div>
 			</div>
@@ -36,7 +36,7 @@ include('_includes/header.php');
                                 <option value="affordability.php" /> Affordability<br />
                             </select>
                         </div>
-                        <div class="col-md-2"  style="margin-left:30px">
+                        <div class="col-md-2" style="margin-left:30px">
                             <select  class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
                                 <option value="0">Color </option>
                                 <option value="black.php" /> Black<br />
@@ -50,23 +50,33 @@ include('_includes/header.php');
 
 
 
-
 <!-- Products Listed -->
 
 			<div class="row">
-				
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg bk per amm 1">
 						<div class=" a">
-            				<img src="images/haircolor/Olia66.png" class='hold' />
+            				<img src="images/haircolor/ColorNaturals1-HitamAlami.png"  />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Olia 6.60 - Intense Red</b><p>The first oil powered Ammonia free hair colour
+				           <b>Color Naturals
+1 - Hitam Alami</b><p>Get nourished, natural-looking, long-lasting color.
 
-							</p><a class="bar-findout bar-align" href="HC-olia-66.php"> &#9656; Find Out </a>
+							</p><a class="bar-findout bar-align" href="HC-HitamAlami.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-					<div class="col-xs-4 tolak-product  1">
+
+					<div class="col-xs-4 tolak-product showimg per amm bro 2">
+						<div class=" a">
+            				<img src="images/haircolor/colornaturalDarkBrownM.png" class='hold' />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>Color Naturals
+3 - Coklat Gelap</b><p>Get nourished, natural-looking, long-lasting colour.
+							</p><a class="bar-findout bar-align" href="HC-Coklat Gelap.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
+					<div class="col-xs-4 tolak-product showimg per amm red 1">
 						<div class=" a">
             				<img src="images/haircolor/ColorNaturals3.16-MerahBurgundy.png" class='hold' />
         				</div>
@@ -76,7 +86,31 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="HC-MerahBurgundy.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-	
+
+
+					<div class="col-xs-4 tolak-product showimg per amm blo bro 1">
+						<div class=" a">
+            				<img src="images/haircolor/ColorNaturals4.0-Coklat.png" class='hold' />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>Color Naturals
+4 - Coklat</b><p>Get nourished, natural-looking, long-lasting colour.
+
+							</p><a class="bar-findout bar-align" href="HC-Coklat.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
+
+					<div class="col-xs-4 tolak-product showimg per amm blo bro 1">
+						<div class=" a">
+            				<img src="images/haircolor/ColorNaturals5.0-CoklatTerang.png" class='hold' />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>Color Naturals
+5 - Coklat Terang</b><p>Get nourished, natural-looking, long-lasting colour.
+
+							</p><a class="bar-findout bar-align" href="HC-CoklatTerang.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
 			</div>
 
 			</div>

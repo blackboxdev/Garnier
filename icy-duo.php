@@ -28,26 +28,21 @@ include('_includes/header.php');
                          <div class="col-md-6 tajuk-filter"> 
                                     Arrange according to <br/>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-2"  onchange="location = this.options[this.selectedIndex].value;">
                             <select class="filter1 filter-btn">
-                                <option value="">Skin Need</option>
+                                <option value="whit" /> Skin Need<br />
                                 <option value="whit" /> Whitening<br />
-                                <option value="acne" /> Acne<br />
-                                <option value="hyd" /> Hydrating<br />
                             </select>
                         </div>
                         <div class="col-md-2">
-                            <select class="filter2 filter-btn">
+                            <select class="filter2 filter-btn"  onchange="location = this.options[this.selectedIndex].value;">
                                 <option>Skin Type</option>
-                                <option value="nor" /> Normal<br />
-                                <option value="dry" /> Dry<br />
-                                <option value="sen" /> Sensitive<br />
-                                <option value="com" /> Combination<br />
-                                <option value="oil" /> Oily<br />
+                                <option value="idNor.php" /> Normal<br />
+                                <option value="idCom.php" /> Combination<br />
                             </select>
                         </div>
                         <div class="col-md-2">
-                            <select class="filter3 filter-btn">
+                            <select class="filter3 filter-btn"  onchange="location = this.options[this.selectedIndex].value;">
                                 <option>New / Popular</option>
                                 <option value="new" /> New <br />
                                 <option value="new" /> Popular<br />
@@ -81,20 +76,6 @@ include('_includes/header.php');
        					</div>
 					</div>
 					
-
-
-				
-
-
-					
-
-					
-					
-
-				
-
-				
-
 			</div>
 
 			</div>

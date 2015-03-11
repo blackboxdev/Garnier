@@ -60,37 +60,49 @@ include('_includes/header.php');
 
 			<div class="row">
 
-				<div class="col-md-4 col-sm-6 tolak-product  1">
+				<div class="col-md-4 col-sm-6 tolak-product showimg acne oil com 1">
 						<div class=" a">
             				<img src="images/skin-natural/pureactive3in1.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Pure Active 3 in 1 Wash, Scrub & Mask</b></p>Simplify your skincare regime by delivering 3 benefits & actions in 1 product.
+				           <b>Pure Active 3-in-1 Wash, Scrub & Mask</b></p>Simplify your skincare regime by delivering 3 benefits & actions in 1 product.
 							</p><a class="bar-findout bar-align" href="PA-active3in1.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product  1">
+
+					<div class="col-md-4 col-sm-6 tolak-product showimg acne oil com 1">
 						<div class=" a">
             				<img src="images/skin-natural/pureactive6in1multifoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Pure Active 6 in 1 Multi-Action Foam</b></p>Fight 6 signs of acne with Multi-Action Anti-Imperfection foam wash.
+				           <b>Pure Active 6-in-1 Multi-Action Foam</b></p>Fight 6 signs of acne with Multi-Action Anti-Imperfection foam wash.
 							</p><a class="bar-findout bar-align" href="PA-active6in1.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product  1">
+
+					<div class="col-xs-4 tolak-product showimg acne com oil 1">
+						<div class=" a">
+            				<img src="images/skin-natural/acnofightscrub-m.png" class='hold' />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>Pure Active 6 in 1 Multi-Action Scrub</b></p>Fight 6 signs of acne with Multi-Action Anti-Imperfection scrub wash.
+							</p><a class="bar-findout bar-align" href="PA-AcnoFightScrub.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
+					
+					<div class="col-md-4 col-sm-6 tolak-product showimg acne oil com 1">
 						<div class=" a">
             				<img src="images/skin-natural/PureActive6in1Toner.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Pure Active 6 in 1 Multi-Action Toner</b></p>Transform your skin to be free from the 6 signs of acne and oil.
+				           <b>Pure Active 6-in-1 Multi-Action Toner</b></p>Transform your skin to be free from the 6 signs of acne and oil.
 							</p><a class="bar-findout bar-align" href="PA-active6in1-toner.php"> &#9656; Find Out </a>
        					</div>
-					</div>
+					</div>					
 
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg acne com oil 1">
 						<div class=" a">
             				<img src="images/skin-natural/pureactivefruitenegy.png" class='hold' />
         				</div>
@@ -99,16 +111,6 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="PA-FruitEnergyEnergizingFacialFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-
-				
-
-
-
-
-
-				
-
-				
 
 			</div>
 

@@ -101,8 +101,8 @@ include('_includes/header.php');
 
 
 					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
-						<div class=" a">
-            				<img src="images/skin-natural/light-complete/png" class='hold' />
+						<div class=" a" style="bottom: 60px">
+            				<img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
 				           <b>Light Complete Visible SPF15</b><p>Get fairness that doesn't shine.
@@ -132,7 +132,7 @@ include('_includes/header.php');
 
 					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
 						<div class=" a">
-            				<img src="images/skin-natural/light-complete/LightCompleteMultiBrighteningEyeRoll.png" class='hold' />
+            				<img style="margin:auto;max-height:210px" src="images/skin-natural/light-complete/LightCompleteMultiBrighteningEyeRoll.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
 				           <b>Light Complete Brightening Eye Roll-On</b><p>Hello brighter looking eyes, goodbye dark circles and eyebags!
@@ -162,7 +162,7 @@ include('_includes/header.php');
 
 					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
 						<div class=" a">
-            				<img src="images/skin-natural/light-complete/lcwhiteningpowder-m.png" class='hold' />
+            				<img style="max-width: 120%; margin-left: -15px;" src="images/skin-natural/light-complete/lcwhiteningpowder-m.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
 				           <b>Light Complete Visible Whitening Face Powder SPF18</b><p>Get fairness that doesn't shine.

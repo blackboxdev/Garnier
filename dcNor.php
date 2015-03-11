@@ -6,21 +6,21 @@ include('_includes/header.php');
 
 
 <!-- Begin Content -->
-	<div id="content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="breadcrumb"> <a href="index.php">Home</a> > <a href="skin-natural.php">Garnier Skin Natural</a> > Duo Clean
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<div class="tajuk-besar">
-						<h1>Duo Clean</h1>
-					</div>
-				</div>
-			</div>
+    <div id="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="breadcrumb"> <a href="index.php">Home</a> > <a href="skin-natural.php">Garnier Skin Natural</a> > Duo Clean
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="tajuk-besar">
+                        <h1>Duo Clean</h1>
+                    </div>
+                </div>
+            </div>
 
 <!-- Product Filter-->
                 <div class="product-bar">
@@ -28,7 +28,6 @@ include('_includes/header.php');
                          <div class="col-md-6 col-xs-6 tajuk-filter"> 
                                     Arrange according to <br/>
                         </div>
-
                         <div class="col-md-2 col-xs-2 " onchange="location = this.options[this.selectedIndex].value;">
                             <select  class="filter1 filter-btn">
                                 <option value="" >Skin Need</option>
@@ -58,32 +57,32 @@ include('_includes/header.php');
 
 <!-- Products Listed -->
 
-			<div class="row">
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit oil com 1">
-						<div class=" a">
-            				<img src="images/skin-natural/duo-clean/duo-clean-whitening-and-oil-control-foam.png"  />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Duo Clean Whitening + Oil Control Duo Foam</b><p>Foam cleanser that removes oil and whitens skin.
-							</p><a class="bar-findout bar-align" href="DC-WhiteningandOilControlFoam.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
+            <div class="row">
+                    <div class="col-md-4 col-sm-6 tolak-product showimg whit nor oil com 1">
+                        <div class=" a">
+                            <img src="images/skin-natural/duo-clean/duo-clean-whitening-and-oil-control-foam.png"  />
+                        </div>
+                        <div class="col-xs-6 b">
+                           <b>Duo Clean Whitening + Oil Control Duo Foam</b><p>Foam cleanser that removes oil and whitens skin.
+                            </p><a class="bar-findout bar-align" href="DC-WhiteningandOilControlFoam.php"> &#9656; Find Out </a>
+                        </div>
+                    </div>
 
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit 2">
-						<div class=" a">
-            				<img src="images/skin-natural/duo-clean/duo-clean-whitening-and-pore-minimizing-foam.png"  />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Duo Clean Whitening + Pore Minimizing Duo Foam</b><p>Foam cleanser that minimizes pores and whitens skin.
-							</p><a class="bar-findout bar-align" href="DC-WhiteningandPoreMinimizingFoam.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
+                    <div class="col-md-4 col-sm-6 tolak-product showimg whit nor 2">
+                        <div class=" a">
+                            <img src="images/skin-natural/duo-clean/duo-clean-whitening-and-pore-minimizing-foam.png"  />
+                        </div>
+                        <div class="col-xs-6 b">
+                           <b>Duo Clean Whitening + Pore Minimizing Duo Foam</b><p>Foam cleanser that minimizes pores and whitens skin.
+                            </p><a class="bar-findout bar-align" href="DC-WhiteningandPoreMinimizingFoam.php"> &#9656; Find Out </a>
+                        </div>
+                    </div>
 
-			</div>
+            </div>
 
-			</div>
-		</div>
+            </div>
+        </div>
 
 <!-- End OF Begin Content -->
 

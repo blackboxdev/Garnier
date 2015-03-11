@@ -29,7 +29,7 @@ include('_includes/header.php');
                                     Arrange according to <br/>
                         </div>
                         <div class="col-md-2" onchange="location = this.options[this.selectedIndex].value;">
-                            <select  class="filter1 filter-btn" >
+                            <select  class="filter1 filter-btn">
                                 <option value="">Skin Need</option>
                                 <option value="acne" /> Anti-Acne<br />
                             </select>

@@ -10,14 +10,14 @@ include('_includes/header.php');
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<div class="breadcrumb"> <a href="index.php">Home</a> > <a href="fym-garnier-skin-natural-men.php">Garnier Men</a> > 
+					<div class="breadcrumb"> <a href="index.php">Home</a> > <a href="fym-garnier-skin-natural-men.php">Garnier Men</a> > Turbo Light
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="tajuk-besar">
-						<h1>By Skin Type- Normal</h1>
+						<h1>Turbo Light</h1>
 					</div>
 				</div>
 			</div>
@@ -28,40 +28,34 @@ include('_includes/header.php');
                          <div class="col-md-6 tajuk-filter"> 
                                     Arrange according to <br/>
                         </div>
-                        <div class="col-md-2">
-                            <select class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
-                                <option value="" />Skin Need</option>
-                                <option value="gmen-skin-need-whitening.php" />Whitening</option>
-                                <option value="gmen-skin-need-acne.php" /> Acne<br />
-                               
+                        <div class="col-md-2"  onchange="location = this.options[this.selectedIndex].value;">
+                            <select class="filter1 filter-btn">
+                                <option value="">Skin Need</option>
+                                <option value="whit" /> Whitening<br />
                             </select>
                         </div>
                         <div class="col-md-2">
-                            <select class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
-                               
-                                <option value="gmen-skin-need-normal.php" /> Normal<br />
-                                <option value="gmen-skin-need-dry.php" /> Dry<br />
-                                <option value="gmen-skin-need-combination.php" /> Combination<br />
+                            <select class="filter2 filter-btn"  onchange="location = this.options[this.selectedIndex].value;">
+                                <option>Skin Type</option>
+                                <option value="tlNor.php" /> Normal<br />
+                                <option value="tlDry.php" /> Dry<br />
                             </select>
                         </div>
                         <div class="col-md-2">
-                            <select class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
+                            <select class="filter3 filter-btn"  onchange="location = this.options[this.selectedIndex].value;">
                                 <option>New / Popular</option>
-                                <option value="" /> New <br />
-                                <option value="" /> Popular<br />
+                                <option value="new" /> New <br />
+                                <option value="new" /> Popular<br />
                             </select>
                         </div>           
                     </div>
                 </div>
 
 
-
 <!-- Products Listed -->
 
 			<div class="row">
-
-				
-<div class="col-xs-4 tolak-product showimg whit nor 1">
+					<div class="col-xs-4 tolak-product showimg whit nor 1">
 						<div class=" a">
             				<img src="images/men/turbo-light/TurboLightIntensiveWhiteningFoam.png" class='hold' />
         				</div>
@@ -90,17 +84,6 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="GM-TurboLightAnti-SpotWhiteningMoisturiserSPF16.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-
-					<div class="col-xs-4 tolak-product showimg whit  1">
-						<div class=" a">
-            				<img src="images/men/icy-duo/TurboLightDoubleWhiteIcyDuoFoam.png" class='hold' />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>TurboLight Double White Icy Duo Foam</b><p>Foam cleanser for fairer and brighter skin.
-							</p><a class="bar-findout bar-align" href="GM-FoamDoubleWhite.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
-				
 
 			</div>
 

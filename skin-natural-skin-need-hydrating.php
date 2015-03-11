@@ -60,16 +60,9 @@ include('_includes/header.php');
 
 			<div class="row">
 
-			
-
-
-					
-
-					
-
-<div class="col-md-4 col-sm-6 tolak-product  1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg dry nor hyd oil com 1">
 						<div class=" a">
-            				<img src="images/skin-natural/aqua-defense/aqua-defense-moisturizing-cleansing-foam.png" class='hold' />
+            				<img src="images/skin-natural/aqua-defense/aqua-defense-moisturizing-cleansing-foam.png"  />
         				</div>
 				        <div class="col-xs-6 b">
 				           <b>Aqua Defense Moisturizing Cleansing Foam</b><p>Hydrates for the whole day while protecting your skin from the challenging environment.
@@ -77,15 +70,9 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-
-					
-				
-
-				
-
-					<div class="col-md-4 col-sm-6 tolak-product  1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg dry hyd nor 1">
 						<div class=" a">
-            				<img src="images/skin-natural/aqua-defense/AquaDefenseNonStopIntensiveHydratingEssence.png" class='hold' />
+            				<img src="images/skin-natural/aqua-defense/AquaDefenseNonStopIntensiveHydratingEssence.png"  />
         				</div>
 				        <div class="col-xs-6 b">
 				           <b>Aqua Defense Non-Stop Intensive Hydrating Essence</b><p>This moisturizing essence instantly hydrates your skin, leaving you feeling refreshed.
@@ -95,29 +82,28 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product  1">
-						<div class=" a"><br>
-            				<img src="images/skin-natural/aqua-defense/ADSkinMask.png" class='hold' />
+					
+					<div class="col-md-4 col-sm-6 tolak-product showimg dry hyd nor 1">
+						<div class=" a">
+            				<img src="images/skin-natural/aqua-defense/AquaDefenseRefreshingHydratingToner.png"  />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Aqua Defense Hydrating Glowing Essence 2nd Skin Mask</b><p>Achieve plump and radiant skin with this intensive tissue mask specifically formulated for 
+				           <b>Aqua Defense Refreshing Hydrating Toner</b><p>Toner with a moisturizing formula and soft hydration that doesn't dry out the skin.
 
-dehydrated skin.
-							</p><a class="bar-findout bar-align" href="AD-HydratingGlowingEssence2ndSkinMask.php"> &#9656; Find Out </a>
+
+							</p><a class="bar-findout bar-align" href="AD-AquaDefenseToner.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-				
-
-				
-
-
-
-
-
-				
-
-				
+					<div class="col-md-4 col-sm-6 tolak-product showimg hyd  dry nor 1">
+						<div class=" a"><br>
+            				<img src="images/skin-natural/aqua-defense/ADSkinMask.png"  />
+        				</div>
+				        <div class="col-xs-6 b">
+				           <b>Aqua Defense Hydrating Glowing Essence 2nd Skin Mask</b><p>Achieve plump and radiant skin with this intensive tissue mask specifically formulated for dehydrated skin.
+							</p><a class="bar-findout bar-align" href="AD-HydratingGlowingEssence2ndSkinMask.php"> &#9656; Find Out </a>
+       					</div>
+					</div>
 
 			</div>
 

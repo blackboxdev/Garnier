@@ -31,16 +31,16 @@ include('_includes/header.php');
                         <div class="col-md-2">
                             <select  class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
                                 <option value="0">Type</option>
-                                <option value="permanent.php" /> Permanent<br />
+                                <option value="healthier.php" /> Healthier Looking Hair<br />
                                 <option value="amonia.php" /> Ammonia Free<br />
+                                <option value="affordability.php" /> Affordability<br />
                             </select>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-2" style="margin-left:30px">
                             <select  class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
                                 <option value="0">Color </option>
                                 <option value="black.php" /> Black<br />
                                 <option value="brown.php" /> Brown<br />
-                                <option value="blonde.php" /> Blonde<br />
                                 <option value="red.php" /> Red<br />
                             </select>
                         </div>

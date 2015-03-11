@@ -29,27 +29,26 @@ include('_includes/header.php');
                          <div class="col-md-6 col-xs-6 tajuk-filter"> 
                                     Arrange according to <br/>
                         </div>
-                        <div class="col-md-2 col-xs-2 ">
+                        
+                        <div class="col-md-2 col-xs-2 " onchange="location = this.options[this.selectedIndex].value;">
                             <select  class="filter1 filter-btn">
-                                <option value="">Skin Need</option>
+                                <option value="whit" >Skin Need</option>
                                 <option value="whit" /> Whitening<br />
-                                <option value="acne" /> Acne<br />
-                                <option value="hyd" /> Hydrating<br />
-                            </select>
-                        </div>
-                        <div class="col-md-2 col-xs-2 ">
-                            <select  class="filter2 filter-btn">
-                                <option>Skin Type</option>
-                                <option value="nor" /> Normal<br />
-                                <option value="dry" /> Dry<br />
-                                <option value="sen" /> Sensitive<br />
-                                <option value="com" /> Combination<br />
-                                <option value="oil" /> Oily<br />
+                                <option value="oil" /> Oil Control<br />
                             </select>
                         </div>
                         <div class="col-md-2 col-xs-2">
-                            <select  class="filter3 filter-btn">
-                                <option>New / Popular</option>
+                            <select  class="filter2 filter-btn" onchange="location = this.options[this.selectedIndex].value;">
+                                <option value="" >Skin Type</option>
+                                <option value="swNor.php" /> Normal<br />
+                                <option value="swDry.php" /> Dry<br />
+                                <option value="swSen.php" /> Sensitive<br />
+                                <option value="swCom.php" /> Combination<br />
+                            </select>
+                        </div>
+                        <div class="col-md-2 col-xs-2">
+                            <select  class=" filter3 filter-btn" onchange="location = this.options[this.selectedIndex].value;">
+                                <option value=""> New / Popular</option>
                                 <option value="new" /> New <br />
                                 <option value="new" /> Popular<br />
                             </select>
@@ -80,7 +79,7 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="SW-PinkishRadianceMoisturizingCreamSPF21.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-					<div class="col-md-4 col-sm-6 tolak-product showimg nor sen 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit nor sen 1">
 						<div class=" a">
             				<img src="images/skin-natural/sakura-white/SWPinkishRadianceSleepingEssence.png" class='hold' />
         				</div>
@@ -90,7 +89,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg nor sen 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit nor sen 1">
 						<div class=" a">
             				<img src="images/skin-natural/sakura-white/sakura-white-pinkish-radiance-intensive-whitening-mask.png" class='hold' />
         				</div>
@@ -100,7 +99,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg sen 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit sen 1">
 						<div class=" a">
             				<img src="images/skin-natural/sakura-white/sakura-white-pinkish-radiance-ultimate-serum.png" class='hold' />
         				</div>
@@ -112,7 +111,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg sen 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit oil sen 1">
 						<div class=" a">
             				<img src="images/skin-natural/sakura-white/sw-pinkishradiancecream-m.png" class='hold' />
         				</div>

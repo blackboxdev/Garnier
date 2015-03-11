@@ -31,7 +31,6 @@ include('_includes/header.php');
                         <div class="col-md-2">
                             <select class="filter-btn" name="forma" onchange="location = this.options[this.selectedIndex].value;">
                                 <option value="gmen-skin-need-whitening.php" />Whitening</option>
-                                <option value="gmen-skin-need-acne.php" /> Acne<br />
                                
                             </select>
                         </div>
@@ -41,8 +40,7 @@ include('_includes/header.php');
                                 <option value="gmen-skin-need-normal.php" /> Normal<br />
                                 <option value="gmen-skin-need-dry.php" /> Dry<br />
                                 
-                                <option value="gmen-skin-need-sensitive.php" /> Combination<br />
-                                <option value="gmen-skin-need-sensitive.php" /> Oily<br />
+                                <option value="gmen-skin-need-combination.php" /> Combination<br />
                             </select>
                         </div>
                         <div class="col-md-2">
@@ -66,7 +64,7 @@ include('_includes/header.php');
             				<img src="images/men/turbo-light/TurboLightIntensiveWhiteningFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>TurboLight Intensive Whitening Foam</b><p>Facial foam that completely cleanses and brightens skin.
+				           <b>TurboLight Intensive Brightening Foam</b><p>Facial foam that completely cleanses and brightens skin.
 							</p><a class="bar-findout bar-align" href="GM-TurboLightIntensiveWhiteningFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
@@ -77,7 +75,7 @@ include('_includes/header.php');
             				<img src="images/men/turbo-light/TurboLightWhitening-Scrub.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>TurboLight Whitening Scrub</b><p>Scrub cleanser that cleanses, exfoliates and brightens skin
+				           <b>TurboLight Dark-Cell Remover Scrub </b><p>Scrub cleanser that cleanses, exfoliates and brightens skin
 							</p><a class="bar-findout bar-align" href="GM-TurboLightWhitening Scrub.php"> &#9656; Find Out </a>
        					</div>
 					</div>
@@ -91,68 +89,69 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg whit acne 1">
 						<div class=" a">
             				<img src="images/men/oil-control/OilControlAntiGreaseWhiteningCoolingFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Grease Control Brightening Cooling Foam</b><p>An oil trapping mud texture with a cooling after feel.
+				           <b>TurboLight Oil Control Grease Control Brightening Cooling Foam</b><p>An oil trapping mud texture with a cooling after feel.
 							</p><a class="bar-findout bar-align" href="GM-GreaseControlBrighteningCoolingFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
 
-					<div class="col-xs-4 tolak-product  2">
+					<div class="col-xs-4 tolak-product showimg whit acne oil com 2">
 						<div class=" a">
             				<img src="images/men/turbo-light/BrighteningIcyScrub.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Anti-Blackheads Brightening Icy Scrub</b><p>A pore unclogging scrub with micro-beads for a cool, brightening result.
+				           <b>TurboLight Oil Control Blackheads Reducing Brightening Icy Scrub</b><p>A pore unclogging scrub with micro-beads for a cool, brightening result.
 							</p><a class="bar-findout bar-align" href="GM-Anti-BlackheadsBrighteningIcyScrub.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg whit oil com acne 1">
 						<div class=" a">
             				<img src="images/men/turbo-light/TurboLightOilControlCharcoalFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>TurboLight Oil Control Charcoal Foam</b><p>Eliminate dirt and excess oil instantly!
+				           <b>TurboLight Oil Control Purify and Brighten Charcoal Black Foam</b><p>Eliminate dirt and excess oil instantly!
 							</p><a class="bar-findout bar-align" href="GM-TurboLightOilControlCharcoalFoam.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
 
-					<div class="col-xs-4 tolak-product  1">
+					<div class="col-xs-4 tolak-product showimg whit acne 1">
 						<div class=" a">
             				<img src="images/men/turbo-light/All-in-1BrighteningMoisturiser.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>All-in-1 Brightening Moisturiser </b><p>All day bright and oil free look.
+				           <b>TurboLight Oil Control All-in-1 Brightening Moisturiser </b><p>All day bright and oil free look.
 							</p><a class="bar-findout bar-align" href="GM-All-in-1BrighteningMoisturiser.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
-					<div class="col-xs-4 tolak-product  1">
+					
+				
+					<div class="col-xs-4 tolak-product showimg whit  1">
 						<div class=" a">
             				<img src="images/men/icy-duo/TurboLightDoubleWhiteIcyDuoFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Icy Duo Foam Double White</b><p>Foam cleanser for fairer and brighter skin.
+				           <b>TurboLight Double White Icy Duo Foam</b><p>Foam cleanser for fairer and brighter skin.
 							</p><a class="bar-findout bar-align" href="GM-FoamDoubleWhite.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
 
-					<div class="col-xs-4 tolak-product  2">
+					<div class="col-xs-4 tolak-product showimg whit 2">
 						<div class=" a">
-            				<img src="images/men/icy-duo/IcyDuoFoamWhite.png" class='hold' />
+            				<img src="images/men/icy-duo/TurboLight White+OilControlIcyDuoFoam.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Icy Duo Foam White + Oil Control</b><p>Foam cleanser for fairer skin and pore minimizing.
+				           <b>TurboLight White + Oil Control Icy Duo Foam</b><p>Foam cleanser for fairer skin and pore minimizing.	
 							</p><a class="bar-findout bar-align" href="GM-TurboLightIcyDuoFoamWhite+OilControl.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-				
 
 			</div>
 

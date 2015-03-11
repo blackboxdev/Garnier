@@ -37,7 +37,6 @@ include('_includes/header.php');
                             <select  class="filter1 filter-btn">
                                 <option value="whit" >Skin Need</option>
                                 <option value="whit" /> Whitening<br />
-                                <option value="oil" /> Oil Control<br />
                             </select>
                         </div>
                         <div class="col-md-2 col-xs-2">
@@ -65,7 +64,7 @@ include('_includes/header.php');
 <!-- Products Listed -->
 			
 			<div class="row product-align">
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit com nor 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit com oil nor 1">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/gentle-clarifying-foam.png"  />
         				</div>
@@ -75,7 +74,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4  col-sm-6  tolak-product showimg whit com nor 2">
+					<div class="col-md-4  col-sm-6  tolak-product showimg whit com oil nor 2">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/light-complete-intensive-brightening-scrub.png"  />
         				</div>
@@ -84,7 +83,7 @@ include('_includes/header.php');
 							</p><a class="bar-findout bar-align" href="LC-MultiActionBrighteningScrub.php"> &#9656; Find Out </a>
        					</div>
 					</div>
-					<div class="col-md-4 col-sm-6 tolak-product showimg com whit 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg oil com whit 1">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/milky-lightening-dew-toner.png"  />
         				</div>
@@ -125,7 +124,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6 tolak-product showimg whit oil com 1">
+					<div class="col-md-4 col-sm-6 tolak-product showimg whit com 1">
 						<div class=" a">
             				<img src="images/skin-natural/light-complete/multi-action-whitening-cream-8hour-shine.png"  />
         				</div>
@@ -165,7 +164,7 @@ include('_includes/header.php');
        					</div>
 					</div>
 
-					<div class="col-md-4 col-sm-6  tolak-product whit showimg oil nor 1">
+					<div class="col-md-4 col-sm-6  tolak-product whit showimg nor 1">
 						<div class=" a">
             				<img style="max-width: 120%; margin-left: -15px;" src="images/skin-natural/light-complete/lcwhiteningpowder-m.png" class='hold' />
         				</div>
