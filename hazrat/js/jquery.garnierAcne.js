@@ -26,7 +26,14 @@
 	      "name": "Pure Active 6 in 1 Multi-Action Foam",
 	      "image": "fym/PA 6 in 1 Foam.png",
 	      "url": "PA-active6in1.php"
-	    }
+	    },
+
+	    "PURE_ACTIVE_SCRUB": {
+	      "name": "Pure Active 6 in 1 Multi-Action Scrub",
+	      "image": "fym/PA 6 in 1 Foam.png",
+	      "url": "PA-AcnoFightScrub.php"
+	    },
+
 	};
 
 	var questionnaire = [
@@ -48,7 +55,7 @@
 	    ]
 	  },
 	  {
-	    "question": "What is your Skin type?",
+	    "question": "What is your Skin type?", //q1
 	    "answers": [
 	      {
 	        "label": "Oily",
@@ -56,15 +63,15 @@
 	      },
 	      {
 	        "label": "Dry",
-	        "next": "PURE_ACTIVE_FRUIT"
+	        "next": "PURE_ACTIVE_FRUIT" //SCRUB
 	      },
 	      {
 	        "label": "Normal",
-	        "next": "PURE_ACTIVE_FRUIT"
+	        "next": "PURE_ACTIVE_FRUIT, PURE_ACTIVE_3"
 	      },
 	      {
 	        "label": "Combination",
-	        "next": "PURE_ACTIVE_FRUIT"
+	        "next": "PURE_ACTIVE_FRUIT, PURE_ACTIVE_3"
 	      }
 	    ]
 	  },
@@ -86,11 +93,11 @@
 	    "answers": [
 	      {
 	        "label": "Yes",
-	        "next": "PURE_ACTIVE_3"
+	        "next": "PURE_ACTIVE_FRUIT, PURE_ACTIVE_3"
 	      },
 	      {
 	        "label": "No",
-	        "next": "PURE_ACTIVE_6"
+	        "next": "PURE_ACTIVE_FRUIT, PURE_ACTIVE_3"
 	      }
 	    ]
 	  }

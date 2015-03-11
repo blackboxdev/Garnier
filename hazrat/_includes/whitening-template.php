@@ -127,6 +127,46 @@
 		    			<img src="" id="productImage5" width="200px">
 		    		</a>
 				</div>
+				<div class="radio" id="productTemplate6">
+		    		<a href="" id="learnMoreBtn6">
+		    			<img src="" id="productImage6" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate7">
+		    		<a href="" id="learnMoreBtn7">
+		    			<img src="" id="productImage7" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate8">
+		    		<a href="" id="learnMoreBtn8">
+		    			<img src="" id="productImage8" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate9">
+		    		<a href="" id="learnMoreBtn9">
+		    			<img src="" id="productImage9" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate10">
+		    		<a href="" id="learnMoreBtn10">
+		    			<img src="" id="productImage10" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate11">
+		    		<a href="" id="learnMoreBtn11">
+		    			<img src="" id="productImage11" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate12">
+		    		<a href="" id="learnMoreBtn12">
+		    			<img src="" id="productImage12" width="200px">
+		    		</a>
+				</div>
+				<div class="radio" id="productTemplate13">
+		    		<a href="" id="learnMoreBtn13">
+		    			<img src="" id="productImage13" width="200px">
+		    		</a>
+				</div>
 			</div>
 			
 	     </div>

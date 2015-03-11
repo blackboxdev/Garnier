@@ -66,14 +66,14 @@ include('_includes/header.php');
 			<div class="row product-align">
 
 					<div class="col-md-4 col-sm-6  tolak-product showimg whit nor 1">
-						<div class=" a" style="bottom: 60px">
-            				<img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
-        				</div>
-				        <div class="col-xs-6 b">
-				           <b>Light Complete Visible SPF15</b><p>Get fairness that doesn't shine.
-							</p><a class="bar-findout bar-align" href="LC-Multi-ActionWhiteningFacePowder.php"> &#9656; Find Out </a>
-       					</div>
-					</div>
+                        <div class=" a" style="bottom: 60px">
+                            <img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
+                        </div>
+                        <div class="col-xs-6 b">
+                           <b>Light Complete Multi-Action Gentle Whitening Cream SPF15/PA+++</b><p>Get fairness that doesn't shine.
+                            </p><a class="bar-findout bar-align" href="LC-MultiActionWhiteningCreamSP15.php"> &#9656; Find Out </a>
+                        </div>
+                    </div>
 			</div>
 
 			</div>

@@ -109,8 +109,8 @@ include('_includes/header.php');
             				<img src="images/skin-natural/light-complete/LightCompleteMulti-ActionGentleWhiteningCreamSPF15c.png" class='hold' />
         				</div>
 				        <div class="col-xs-6 b">
-				           <b>Light Complete Visible SPF15</b><p>Get fairness that doesn't shine.
-							</p><a class="bar-findout bar-align" href="LC-Multi-ActionWhiteningFacePowder.php"> &#9656; Find Out </a>
+				           <b>Light Complete Multi-Action Gentle Whitening Cream SPF15/PA+++</b><p>Get fairness that doesn't shine.
+							</p><a class="bar-findout bar-align" href="LC-MultiActionWhiteningCreamSP15.php"> &#9656; Find Out </a>
        					</div>
 					</div>
 
